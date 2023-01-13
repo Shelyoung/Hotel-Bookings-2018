@@ -35,6 +35,8 @@ This dataset was from a span period between July 2017 and Dec 2018, which means 
 
 I wanted to get an understanding of how many bookings there were each month in 2018 to figure out their busiest periods, whether more people arrived at the hotel on the weekends or weekdays, which source attracted the most bookings and the average duration of stay per month to see if this increased during peak times or not. It was important for me get an idea if people booked way more in advance for those holidays duing the peak season (I know I do!) and understand the target maket of this hotel, whether it's families or adults. 
 
+# Discussion of Results
+
 I created different pivot tables and appropriate charts for each one of these. I summarised my analysis in an Excel Dashboard.
 
 

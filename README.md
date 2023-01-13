@@ -29,7 +29,13 @@ Then, I moved on to Data Transformation. After taking the steps above, I wanted 
 
 Once I had my dataset cleaned and prepped, I double checked to see if there any blank values again using the COUNTBLANK function. There were none so it was time to move to the analysis!
 
-This dataset was from a span period between July 2017 and Dec 2018, which means that 2017 had way less data than 2018. I decided to only do the analysis for 2018. There was a total of 36275 bookings for the full dataset, and 29761 for 2018 only. 
+This dataset was from a span period between July 2017 and Dec 2018, which means that 2017 had way less data than 2018. I decided to only do the analysis for 2018. There was a total of 36275 bookings for the full dataset, and 29761 for 2018 only, as you can see below. 
 
 ![11](https://user-images.githubusercontent.com/122553754/212370829-ef3a1528-d189-47ea-85a8-5d2bfac1c242.PNG)
+
+I wanted to get an understanding of how many bookings there were each month in 2018 to figure out their busiest periods, whether more people arrived at the hotel on the weekends or weekdays, which source attracted the most bookings and the average duration of stay per month to see if this increased during peak times or not. It was important for me get an idea if people booked way more in advance for those holidays duing the peak season (I know I do!) and understand the target maket of this hotel, whether it's families or adults. 
+
+I created different pivot tables and appropriate charts for each one of these. I summarised my analysis in an Excel Dashboard.
+
+
 

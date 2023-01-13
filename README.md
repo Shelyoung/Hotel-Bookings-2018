@@ -26,3 +26,10 @@ Then, I moved on to Data Transformation. After taking the steps above, I wanted 
 5. I used the same RIGHT function as in Step 1 to remove Room_Type and only leave the Room number and to remove Room_Type and only leave the number. I replaced all Not Selected to None using the Find and Replace function. 
 6. Now it was time to add a few more columns. I added a column with the duration of stay by adding weekend and weekday nights. I added a Total price column by multiplying the duration of stay by the room price. A column was added to identify a booking as only having Adults or Adults with Children, using the IF(AND) function.
 7. I changed some titles to make them more neat.
+
+Once I had my dataset cleaned and prepped, I double checked to see if there any blank values again using the COUNTBLANK function. There were none so it was time to move to the analysis!
+
+This dataset was from a span period between July 2017 and Dec 2018, which means that 2017 had way less data than 2018. I decided to only do the analysis for 2018. There was a total of 36275 bookings for the full dataset, and 29761 for 2018 only. 
+
+![11](https://user-images.githubusercontent.com/122553754/212370829-ef3a1528-d189-47ea-85a8-5d2bfac1c242.PNG)
+

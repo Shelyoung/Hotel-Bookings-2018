@@ -13,7 +13,7 @@ Steps:
 2. Data cleaning: removed unnecessary columns for my specific analysis, changed the data types, removed duplicates, removed rows with missing values (relevant to my analysis), corrected any mispellings. 
 3. Data transformation: transformed the data to gain more useful insights. Used several functions (SUMIF, COUNTIF, Nested IF AND, WEEKDAY, TEXT, MONTH, YEAR, DAY, LEFT, LEN, REPLACE)
 4. Data Exploration/Analysis: performed data analysis by looking at the distribution of the data and correlations between variables to uncover insights. Performed the aggregation analysis with Pivot Tables and created appropriate visualizations.
-5. Data Insights: exploring the data to find patterns and meaningful insights to improve business performance. 
+5. Data Visualization: create a dashboard with the relevant visualizations and uncover meaningful insights to improve business performance. 
 
 Dashboard
 
